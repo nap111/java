@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e96bf57-3c4b-4a03-a8f8-7f5f94b352ce" name="Default Changelist" comment="" />
+    <list default="true" id="5e96bf57-3c4b-4a03-a8f8-7f5f94b352ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cncom.op.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/read.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/op/demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -39,7 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../test" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -55,7 +58,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="558" />
     <option name="y" value="47" />
     <option name="width" value="1240" />
@@ -74,6 +77,11 @@
               <item name="cncom.op" type="b2602c69:ProjectViewProjectNode" />
               <item name="play" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cncom.op" type="b2602c69:ProjectViewProjectNode" />
+              <item name="play" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -83,6 +91,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
@@ -133,16 +142,15 @@
       <option name="presentableId" value="Default" />
       <updated>1570344894560</updated>
       <workItem from="1570344897963" duration="699000" />
-      <workItem from="1570351828838" duration="509000" />
+      <workItem from="1570351828838" duration="795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1208000" />
+    <option name="totallyTimeSpent" value="1494000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="447" y="38" width="992" height="656" extended-state="0" />
-    <editor active="true" />
+    <frame x="447" y="38" width="992" height="656" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29764453" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -184,8 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/op/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
