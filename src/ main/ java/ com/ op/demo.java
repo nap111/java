@@ -9,8 +9,9 @@ public class demo {
 
     public void test1() {
         System.out.println("的二次测试");
-     System.out.pritln("fuwudua);asd
+         System.out.pritln("fuwudua)
         System.out.println("disanci");
+        System.out.println("beijin");
     }
     
 }
