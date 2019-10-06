@@ -8,8 +8,9 @@ public class demo {
     }
 
     public void test1() {
-        System.out.println("的二次测试")
-     System.out.println("fuwuduan")
+        System.out.println("的二次测试");
+     System.out.println("fuwuduan");
+        System.out.println("disanci");
     }
     
 }
